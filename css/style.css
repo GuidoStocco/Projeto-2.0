@@ -9,4 +9,6 @@
 
 #container{
     background-color: #e0e0d1;
+    width: 90%;
+    justify-content: center;  
 }

@@ -50,3 +50,18 @@ html{
 .font-italic{
     font-style: italic;
 }
+
+.container-curiosites{
+   margin: 25px 0;
+   padding: 25px 0;
+   border-bottom: 1px dashed #ddd;
+   border-top: 1px dashed #ddd;
+}
+li{
+    margin: 10px;
+}
+
+.img-bold{
+    font-weight: bold;
+    text-align: center;
+}
